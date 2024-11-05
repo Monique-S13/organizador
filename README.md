@@ -6,14 +6,17 @@ Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido 
 
 ## Tecnologias Utilizadas
 - **IDE**: VS Code / Studio
-- **Front-end**: HTML, CSS, Python
+- **Front-end**: HTML, CSS, JavaScript
 - **Python**:
 
 ### Equipe de Desenvolvimento
-- **Back-end**: Adriel, Helder
+- **Back-end**: Adriel, Helder, Edilson
 - **Front-end**: Ewerton, Geonobri, Fábio
 - **API**: Ewerton
 
+### Equipe de Publicidade
+-  **Marketing**: Edmilson
+  
 ---
 
 ## Especificações do Projeto
@@ -21,7 +24,10 @@ Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido 
 ### Cores do Projeto
 - **Paleta**: Branco, Azul, Roxo, Preto
 - **Fonte**: Sanz Serif
-- oBS.: Preferência por letras em preto
+- OBS.: Preferência por letras em preto
+
+### Tela de Cadastro
+- Campos: **Nome**, **E-mail**, **Senha** e **Confirmação de Senha**
 
 ### Tela de Login
 - Campos: **E-mail** e **Senha**
